@@ -1,12 +1,3 @@
-AWS CLI Examples
-Welcome to the repository of advanced AWS CLI commands, a collection of meticulously crafted CLI examples that serve as a foundation for customizing your AWS resource management. If you've ever found yourself deep in the AWS documentation, trying to piece together the perfect command, you know how valuable a well-constructed CLI command can be.
-
-Our goal is to save you time and effort by sharing our collection of "hard-won" commands. These examples cover a range of AWS services and are designed to address less common, but highly practical, scenarios.
-
-Here's a more professional and styled markdown (`.md`) file for your AWS CLI Examples repository. This format includes a structured layout, usage of markdown features for better readability, and inclusion of all details for an effective presentation.
-
----
-
 # AWS CLI Examples
 
 ## Welcome!
